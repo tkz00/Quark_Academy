@@ -1,0 +1,6 @@
+C:\Users\theok\Desktop\Test\Test2\bin\Debug\Test2.exe.config
+C:\Users\theok\Desktop\Test\Test2\bin\Debug\Test2.exe
+C:\Users\theok\Desktop\Test\Test2\bin\Debug\Test2.pdb
+C:\Users\theok\Desktop\Test\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\theok\Desktop\Test\Test2\obj\Debug\Test2.exe
+C:\Users\theok\Desktop\Test\Test2\obj\Debug\Test2.pdb

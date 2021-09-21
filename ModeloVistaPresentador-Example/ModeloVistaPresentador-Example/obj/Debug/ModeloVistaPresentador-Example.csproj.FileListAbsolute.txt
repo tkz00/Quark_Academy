@@ -1,0 +1,10 @@
+C:\Users\Yisus\Desktop\El patrón Modelo-Vista-Presentador\ModeloVistaPresentador-Example\ModeloVistaPresentador-Example\bin\Debug\ModeloVistaPresentador-Example.exe.config
+C:\Users\Yisus\Desktop\El patrón Modelo-Vista-Presentador\ModeloVistaPresentador-Example\ModeloVistaPresentador-Example\bin\Debug\ModeloVistaPresentador-Example.exe
+C:\Users\Yisus\Desktop\El patrón Modelo-Vista-Presentador\ModeloVistaPresentador-Example\ModeloVistaPresentador-Example\bin\Debug\ModeloVistaPresentador-Example.pdb
+C:\Users\Yisus\Desktop\El patrón Modelo-Vista-Presentador\ModeloVistaPresentador-Example\ModeloVistaPresentador-Example\obj\Debug\ModeloVistaPresentador-Example.csprojAssemblyReference.cache
+C:\Users\Yisus\Desktop\El patrón Modelo-Vista-Presentador\ModeloVistaPresentador-Example\ModeloVistaPresentador-Example\obj\Debug\ModeloVistaPresentador_Example.Form1.resources
+C:\Users\Yisus\Desktop\El patrón Modelo-Vista-Presentador\ModeloVistaPresentador-Example\ModeloVistaPresentador-Example\obj\Debug\ModeloVistaPresentador_Example.Properties.Resources.resources
+C:\Users\Yisus\Desktop\El patrón Modelo-Vista-Presentador\ModeloVistaPresentador-Example\ModeloVistaPresentador-Example\obj\Debug\ModeloVistaPresentador-Example.csproj.GenerateResource.cache
+C:\Users\Yisus\Desktop\El patrón Modelo-Vista-Presentador\ModeloVistaPresentador-Example\ModeloVistaPresentador-Example\obj\Debug\ModeloVistaPresentador-Example.csproj.CoreCompileInputs.cache
+C:\Users\Yisus\Desktop\El patrón Modelo-Vista-Presentador\ModeloVistaPresentador-Example\ModeloVistaPresentador-Example\obj\Debug\ModeloVistaPresentador-Example.exe
+C:\Users\Yisus\Desktop\El patrón Modelo-Vista-Presentador\ModeloVistaPresentador-Example\ModeloVistaPresentador-Example\obj\Debug\ModeloVistaPresentador-Example.pdb

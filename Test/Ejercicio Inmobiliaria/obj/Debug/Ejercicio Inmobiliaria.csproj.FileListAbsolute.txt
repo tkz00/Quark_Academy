@@ -1,0 +1,10 @@
+C:\Users\theok\Desktop\Test\Ejercicio Inmobiliaria\bin\Debug\Ejercicio Inmobiliaria.exe.config
+C:\Users\theok\Desktop\Test\Ejercicio Inmobiliaria\bin\Debug\Ejercicio Inmobiliaria.exe
+C:\Users\theok\Desktop\Test\Ejercicio Inmobiliaria\bin\Debug\Ejercicio Inmobiliaria.pdb
+C:\Users\theok\Desktop\Test\Ejercicio Inmobiliaria\obj\Debug\Ejercicio Inmobiliaria.csproj.AssemblyReference.cache
+C:\Users\theok\Desktop\Test\Ejercicio Inmobiliaria\obj\Debug\Ejercicio_Inmobiliaria.Form1.resources
+C:\Users\theok\Desktop\Test\Ejercicio Inmobiliaria\obj\Debug\Ejercicio_Inmobiliaria.Properties.Resources.resources
+C:\Users\theok\Desktop\Test\Ejercicio Inmobiliaria\obj\Debug\Ejercicio Inmobiliaria.csproj.GenerateResource.cache
+C:\Users\theok\Desktop\Test\Ejercicio Inmobiliaria\obj\Debug\Ejercicio Inmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\theok\Desktop\Test\Ejercicio Inmobiliaria\obj\Debug\Ejercicio Inmobiliaria.exe
+C:\Users\theok\Desktop\Test\Ejercicio Inmobiliaria\obj\Debug\Ejercicio Inmobiliaria.pdb
