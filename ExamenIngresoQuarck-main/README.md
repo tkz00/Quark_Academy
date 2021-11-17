@@ -27,7 +27,7 @@ Respuestas:
 
 1. C# no permite herencia múltiple.
 
-2. Se tiene que usar una clase abstracta cuando tenemos una jerarquia de clases Ejemplo: Tenemos la la clase abstracta vehiculo tiene como atributo cantidadDeRuedas y tenemos que conservar ese atributo en las clases hijas como auto o camion, algo que con la interfaz no se puede, pero por otro lado podemos usar tambien una interfaz para definir el comportamiento de esos vehiculos. 
+2. Se tiene que usar una clase abstracta cuando tenemos una jerarquia de clases Ejemplo: Tenemos la la clase abstracta vehiculo tiene como atributo cantidadDeRuedas y tenemos que conservar ese atributo en las clases hijas como auto o camion, algo que con la interfaz no se puede, pero por otro lado podemos usar tambien una interfaz para definir el comportamiento de esos vehiculos. Las interfaces no permiten atributos, como cantidadDeRuedas.
 
 3. La generalizacion es una relacion entre un elemento padre y un elemento hijo.
 

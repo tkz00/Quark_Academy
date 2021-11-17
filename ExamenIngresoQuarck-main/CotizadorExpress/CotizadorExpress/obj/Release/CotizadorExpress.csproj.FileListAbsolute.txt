@@ -8,3 +8,13 @@ C:\Users\franc\Desktop\ExamenIngresoQuarck\CotizadorExpress\CotizadorExpress\obj
 C:\Users\franc\Desktop\ExamenIngresoQuarck\CotizadorExpress\CotizadorExpress\obj\Release\CotizadorExpress.csproj.CoreCompileInputs.cache
 C:\Users\franc\Desktop\ExamenIngresoQuarck\CotizadorExpress\CotizadorExpress\obj\Release\CotizadorExpress.exe
 C:\Users\franc\Desktop\ExamenIngresoQuarck\CotizadorExpress\CotizadorExpress\obj\Release\CotizadorExpress.pdb
+C:\Users\user\Desktop\Quark_Academy\ExamenIngresoQuarck-main\CotizadorExpress\CotizadorExpress\bin\Release\CotizadorExpress.exe.config
+C:\Users\user\Desktop\Quark_Academy\ExamenIngresoQuarck-main\CotizadorExpress\CotizadorExpress\bin\Release\CotizadorExpress.exe
+C:\Users\user\Desktop\Quark_Academy\ExamenIngresoQuarck-main\CotizadorExpress\CotizadorExpress\bin\Release\CotizadorExpress.pdb
+C:\Users\user\Desktop\Quark_Academy\ExamenIngresoQuarck-main\CotizadorExpress\CotizadorExpress\obj\Release\CotizadorExpress.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Quark_Academy\ExamenIngresoQuarck-main\CotizadorExpress\CotizadorExpress\obj\Release\CotizadorExpress.FormPrincipal.resources
+C:\Users\user\Desktop\Quark_Academy\ExamenIngresoQuarck-main\CotizadorExpress\CotizadorExpress\obj\Release\CotizadorExpress.Properties.Resources.resources
+C:\Users\user\Desktop\Quark_Academy\ExamenIngresoQuarck-main\CotizadorExpress\CotizadorExpress\obj\Release\CotizadorExpress.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Quark_Academy\ExamenIngresoQuarck-main\CotizadorExpress\CotizadorExpress\obj\Release\CotizadorExpress.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Quark_Academy\ExamenIngresoQuarck-main\CotizadorExpress\CotizadorExpress\obj\Release\CotizadorExpress.exe
+C:\Users\user\Desktop\Quark_Academy\ExamenIngresoQuarck-main\CotizadorExpress\CotizadorExpress\obj\Release\CotizadorExpress.pdb
