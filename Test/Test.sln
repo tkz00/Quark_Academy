@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton Example", "Single
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Example", "Factory Example\Factory Example.csproj", "{DC062EB7-4C38-4CA1-86BE-29E411F05D50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Factory Example", "Abstract Factory Example\Abstract Factory Example.csproj", "{0A8F5E14-DE05-4196-AD51-9DBC7B51814D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype Example", "Prototype Example\Prototype Example.csproj", "{F3AF9E11-21D2-41C3-8F87-A9A4A6160690}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{DC062EB7-4C38-4CA1-86BE-29E411F05D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC062EB7-4C38-4CA1-86BE-29E411F05D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC062EB7-4C38-4CA1-86BE-29E411F05D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8F5E14-DE05-4196-AD51-9DBC7B51814D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8F5E14-DE05-4196-AD51-9DBC7B51814D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8F5E14-DE05-4196-AD51-9DBC7B51814D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8F5E14-DE05-4196-AD51-9DBC7B51814D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3AF9E11-21D2-41C3-8F87-A9A4A6160690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AF9E11-21D2-41C3-8F87-A9A4A6160690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AF9E11-21D2-41C3-8F87-A9A4A6160690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AF9E11-21D2-41C3-8F87-A9A4A6160690}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

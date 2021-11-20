@@ -1,0 +1,7 @@
+C:\Users\theok\Desktop\Quark_Academy\Test\Abstract Factory Example\bin\Debug\Abstract Factory Example.exe.config
+C:\Users\theok\Desktop\Quark_Academy\Test\Abstract Factory Example\bin\Debug\Abstract Factory Example.exe
+C:\Users\theok\Desktop\Quark_Academy\Test\Abstract Factory Example\bin\Debug\Abstract Factory Example.pdb
+C:\Users\theok\Desktop\Quark_Academy\Test\Abstract Factory Example\obj\Debug\Abstract Factory Example.csproj.AssemblyReference.cache
+C:\Users\theok\Desktop\Quark_Academy\Test\Abstract Factory Example\obj\Debug\Abstract Factory Example.csproj.CoreCompileInputs.cache
+C:\Users\theok\Desktop\Quark_Academy\Test\Abstract Factory Example\obj\Debug\Abstract Factory Example.exe
+C:\Users\theok\Desktop\Quark_Academy\Test\Abstract Factory Example\obj\Debug\Abstract Factory Example.pdb

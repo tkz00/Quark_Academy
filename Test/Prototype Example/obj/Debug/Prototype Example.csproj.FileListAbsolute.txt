@@ -1,0 +1,7 @@
+C:\Users\theok\Desktop\Quark_Academy\Test\Prototype Example\bin\Debug\Prototype Example.exe.config
+C:\Users\theok\Desktop\Quark_Academy\Test\Prototype Example\bin\Debug\Prototype Example.exe
+C:\Users\theok\Desktop\Quark_Academy\Test\Prototype Example\bin\Debug\Prototype Example.pdb
+C:\Users\theok\Desktop\Quark_Academy\Test\Prototype Example\obj\Debug\Prototype Example.csproj.AssemblyReference.cache
+C:\Users\theok\Desktop\Quark_Academy\Test\Prototype Example\obj\Debug\Prototype Example.csproj.CoreCompileInputs.cache
+C:\Users\theok\Desktop\Quark_Academy\Test\Prototype Example\obj\Debug\Prototype Example.exe
+C:\Users\theok\Desktop\Quark_Academy\Test\Prototype Example\obj\Debug\Prototype Example.pdb
