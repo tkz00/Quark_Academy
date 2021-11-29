@@ -1,7 +1,0 @@
-C:\Users\user\Desktop\Quark_Academy\Test\Singleton Example\bin\Debug\Singleton Example.exe.config
-C:\Users\user\Desktop\Quark_Academy\Test\Singleton Example\bin\Debug\Singleton Example.exe
-C:\Users\user\Desktop\Quark_Academy\Test\Singleton Example\bin\Debug\Singleton Example.pdb
-C:\Users\user\Desktop\Quark_Academy\Test\Singleton Example\obj\Debug\Singleton Example.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\Quark_Academy\Test\Singleton Example\obj\Debug\Singleton Example.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\Quark_Academy\Test\Singleton Example\obj\Debug\Singleton Example.exe
-C:\Users\user\Desktop\Quark_Academy\Test\Singleton Example\obj\Debug\Singleton Example.pdb
