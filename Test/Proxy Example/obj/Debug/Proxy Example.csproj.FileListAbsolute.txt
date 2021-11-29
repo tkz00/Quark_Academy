@@ -1,0 +1,7 @@
+C:\Users\theok\Desktop\Quark_Academy\Test\Proxy Example\bin\Debug\Proxy Example.exe.config
+C:\Users\theok\Desktop\Quark_Academy\Test\Proxy Example\bin\Debug\Proxy Example.exe
+C:\Users\theok\Desktop\Quark_Academy\Test\Proxy Example\bin\Debug\Proxy Example.pdb
+C:\Users\theok\Desktop\Quark_Academy\Test\Proxy Example\obj\Debug\Proxy Example.csproj.AssemblyReference.cache
+C:\Users\theok\Desktop\Quark_Academy\Test\Proxy Example\obj\Debug\Proxy Example.csproj.CoreCompileInputs.cache
+C:\Users\theok\Desktop\Quark_Academy\Test\Proxy Example\obj\Debug\Proxy Example.exe
+C:\Users\theok\Desktop\Quark_Academy\Test\Proxy Example\obj\Debug\Proxy Example.pdb

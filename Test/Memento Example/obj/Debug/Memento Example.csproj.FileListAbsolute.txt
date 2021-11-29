@@ -1,0 +1,7 @@
+C:\Users\theok\Desktop\Quark_Academy\Test\Memento Example\bin\Debug\Memento Example.exe.config
+C:\Users\theok\Desktop\Quark_Academy\Test\Memento Example\bin\Debug\Memento Example.exe
+C:\Users\theok\Desktop\Quark_Academy\Test\Memento Example\bin\Debug\Memento Example.pdb
+C:\Users\theok\Desktop\Quark_Academy\Test\Memento Example\obj\Debug\Memento Example.csproj.AssemblyReference.cache
+C:\Users\theok\Desktop\Quark_Academy\Test\Memento Example\obj\Debug\Memento Example.csproj.CoreCompileInputs.cache
+C:\Users\theok\Desktop\Quark_Academy\Test\Memento Example\obj\Debug\Memento Example.exe
+C:\Users\theok\Desktop\Quark_Academy\Test\Memento Example\obj\Debug\Memento Example.pdb

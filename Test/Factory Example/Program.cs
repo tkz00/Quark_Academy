@@ -10,24 +10,26 @@ namespace Factory_Example
     {
         static void Main(string[] args)
         {
-            FabricaTransporte transporte;
+            FabricaTransporte fabricaTransporte;
             Console.WriteLine("Ingrese \"Tierra\" si desea envíar el paquete con un camión o \"Agua\" si desea enviarlo a través de un barco");
             string opcion = Console.ReadLine();
 
             if(opcion == "Tierra")
             {
-                transporte = new FabricaCamion();
+                fabricaTransporte = new FabricaCamion();
             }
             else if(opcion == "Agua")
             {
-                transporte = new FabricaBarco();
+                fabricaTransporte = new FabricaBarco();
             }
             else
             {
                 throw new Exception("No se eligió ninguna de las opciones especificadas.");
             }
 
-            transporte.Entregar();
+            ITransporte transporte = fabricaTransporte.GetTransporte();
+
+            Console.WriteLine(transporte.entregar());
         }
     }
 }

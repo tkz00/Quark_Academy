@@ -1,0 +1,7 @@
+C:\Users\theok\Desktop\Quark_Academy\Test\Builder Example\bin\Debug\Builder Example.exe.config
+C:\Users\theok\Desktop\Quark_Academy\Test\Builder Example\bin\Debug\Builder Example.exe
+C:\Users\theok\Desktop\Quark_Academy\Test\Builder Example\bin\Debug\Builder Example.pdb
+C:\Users\theok\Desktop\Quark_Academy\Test\Builder Example\obj\Debug\Builder Example.csproj.AssemblyReference.cache
+C:\Users\theok\Desktop\Quark_Academy\Test\Builder Example\obj\Debug\Builder Example.csproj.CoreCompileInputs.cache
+C:\Users\theok\Desktop\Quark_Academy\Test\Builder Example\obj\Debug\Builder Example.exe
+C:\Users\theok\Desktop\Quark_Academy\Test\Builder Example\obj\Debug\Builder Example.pdb

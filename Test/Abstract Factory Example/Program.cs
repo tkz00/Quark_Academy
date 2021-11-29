@@ -27,7 +27,6 @@ namespace Abstract_Factory_Example
                     break;
                 default:
                     throw new Exception("La dificultad ingresada no es valida.");
-                    break;
             }
 
             Enemy enemy = factory.CreateEnemy(10);

@@ -10,10 +10,10 @@ namespace Factory_Example
     {
         public abstract ITransporte GetTransporte();
 
-        public void Entregar()
-        {
-            ITransporte transporte = GetTransporte();
-            Console.WriteLine(transporte.entregar());
-        }
+        //public void Entregar()
+        //{
+        //    ITransporte transporte = GetTransporte();
+        //    Console.WriteLine(transporte.entregar());
+        //}
     }
 }
